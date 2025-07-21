@@ -27,6 +27,11 @@
      document.querySelector(".thesecond img").src="dice4.png"}
      else if(random2===5){
      document.querySelector(".thesecond img").src="dice1.png"}
-     }
+     if (random>random2){
+        document.querySelector("h1") .innerHTML="the first player win"}
+     
+     else if (random<random2){document.querySelector("h1") .innerHTML="the second player win"}
+     
+     else if (random===random2){document.querySelector("h1") .innerHTML="the both wins"}}
      getrandom();
      
