@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Documents/tp/exp1/tp/tp/exp1/exp1"
+		},
+		{
+			"path": "../../formation/SESSION 1 (2)/SESSION 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exp1"
+	}
+}
